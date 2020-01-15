@@ -80,7 +80,7 @@
 
     section,footer{
         /* Semua Section padding atas bawah 20pixel kiri kanan 0 */
-        padding: 1px 0px;
+        padding: 20px 0px;
     }
     
     .footer {
